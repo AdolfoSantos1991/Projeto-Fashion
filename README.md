@@ -1,59 +1,84 @@
-🧵 Projeto Moda
+👗 Projeto Fashion
 
-Uma página simples e elegante desenvolvida para praticar HTML e conceitos básicos de estruturação visual voltados ao universo da moda. O foco do projeto é explorar um layout limpo, organizado e adequado para apresentação de conteúdo estético.
+Uma landing page estática desenvolvida em HTML5 e CSS3, criada para apresentar um site de moda com layout simples, organizado e visualmente agradável.
+O projeto demonstra conhecimentos fundamentais de estruturação HTML, estilização com CSS e criação de páginas responsivas e bem organizadas.
 
 📌 Sobre o Projeto
 
-O Projeto Moda foi criado com o objetivo de treinar fundamentos essenciais de desenvolvimento web, incluindo:
+O Projeto Fashion simula uma página inicial de um site de moda, contendo:
 
-Estruturação semântica em HTML5
+Cabeçalho com menu de navegação
 
-Organização de conteúdo visual
+Seção principal com texto e imagem
 
-Construção de uma página com aparência moderna e minimalista
+Galeria com três imagens estilizadas
 
-Ideal como projeto de estudo ou demonstração de habilidades iniciais em front-end.
+Seção de contato com endereço e telefone
 
-🛠️ Tecnologias Utilizadas
+Mapa incorporado via Google Maps
+
+Rodapé com copyright
+
+O objetivo principal é treinar a construção de um site institucional visualmente interessante, utilizando apenas HTML e CSS.
+
+🧰 Tecnologias Utilizadas
 
 HTML5
 
-CSS3 (se aplicável ao seu projeto)
+CSS3
 
-📂 Estrutura do Projeto (exemplo)
-/Projeto-Moda
+Estrutura totalmente estática, sem JavaScript
+
+📂 Estrutura do Projeto
+Projeto-Fashion-main/
 │── index.html
-│── /assets
-│     ├── imagens
-│     └── estilos.css
-
-🎨 Destaques
-
-Layout simples e intuitivo
-
-Seções organizadas visualmente
-
-Conteúdo voltado ao tema moda
-
-Fácil expansão e personalização
-
-🚀 Como Visualizar
-
-Basta clonar o repositório e abrir o arquivo index.html no navegador:
-
-git clone https://github.com/seu-usuario/Projeto-Moda.git
+│── CSS              (arquivo CSS único renomeado pelo sistema)
+│── imagem/          (imagens usadas na galeria)
+│── bg_detalhe.png   (elemento gráfico do topo)
+│── Assets           (inclui imagens adicionais)
+│── LICENSE
+│── README.md
 
 
-Abra o arquivo:
+Obs.: No repositório original, as pastas CSS e Assets vieram compactadas como arquivos, não diretórios. Caso deseje, posso ajudar a reestruturar para manter a organização ideal do projeto.
+
+🎨 Destaques Visuais
+
+Layout centralizado em uma div principal (#principal)
+
+Imagens com sombras e bordas arredondadas
+
+Títulos estilizados
+
+Seções separadas visualmente para facilitar leitura
+
+Estrutura pronta para expansão e aplicação de responsividade
+
+🚀 Como Executar
+
+Não é necessário instalar nada.
+Basta baixar o repositório e abrir o arquivo:
 
 index.html
 
-📸 Prévia (opcional)
 
-Inclua aqui uma captura de tela do projeto quando quiser:
+em qualquer navegador.
 
-![Preview do Projeto](caminho-da-imagem)
+Ou, via Git:
+
+git clone https://github.com/seu-usuario/Projeto-Fashion-main.git
+
+🗺️ Recursos Integrados
+
+Este projeto inclui:
+
+Integração com Google Maps via <iframe>
+
+Imagens organizadas em galerias
+
+Estrutura semântica HTML pronta para SEO básico
 
 📄 Licença
 
-Este projeto é de uso livre para estudos e demonstrações.
+Este projeto está licenciado sob a MIT License.
+Você pode usá-lo para estudos, portfólio ou como base para novos projetos.
