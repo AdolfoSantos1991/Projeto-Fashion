@@ -64,9 +64,9 @@ index.html
 
 em qualquer navegador.
 
-Ou, via Git:
+Ou, via Git: https://github.com/AdolfoSantos1991/Projeto-Fashion/edit/main/README.md
 
-git clone https://github.com/seu-usuario/Projeto-Fashion-main.git
+git clone 
 
 🗺️ Recursos Integrados
 
