@@ -20,19 +20,7 @@ O objetivo é treinar HTML e CSS de forma prática e visual.
 - **HTML5**  
 - **CSS3**
 
-## 📂 Estrutura do Projeto
-
-Projeto-Fashion/  
-│── index.html  
-│── /css  
-│   └── estilo.css  
-│── /imagens  
-│   ├── foto1.png  
-│   ├── foto2.png  
-│   └── foto3.png  
-│── bg_detalhe.png  
-
-## Destaques
+## 📂 Destaques do Projeto
 
 - Layout leve e intuitivo  
 - Imagens com bordas arredondadas e sombreamento  
