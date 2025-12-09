@@ -32,7 +32,7 @@ Projeto-Fashion/
 │   └── foto3.png  
 │── bg_detalhe.png  
 
-## ⭐ Destaques
+## Destaques
 
 - Layout leve e intuitivo  
 - Imagens com bordas arredondadas e sombreamento  
